@@ -1,7 +1,4 @@
-<!doctype html> 
-<head> 
-  <title> Laura Gee</title> 
-  </head>
+
   <body>
   <h1>Welcome</h1>
   <div id="contact">
