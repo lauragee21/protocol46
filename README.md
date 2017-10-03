@@ -1,6 +1,6 @@
 
   <body>
-  <h1>Welcome</h1>
+  <h1>Welcome!</h1>
   <div id="contact">
     <h2>Contact Info</h2>
     <ul>
