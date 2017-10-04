@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica", sans-serif;
-  background: red;
+  background: #e5e5e5;
 }
 
 h2 {
@@ -8,6 +8,7 @@ h2 {
 }
 
 #contact {
-  background-color: #FFDE7A;
+  background-color: black;
+  color: white;
   padding: 2%;
 }
